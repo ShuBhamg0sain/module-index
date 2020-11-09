@@ -22,7 +22,7 @@ audioop	Manipulate raw audio data.
  	
 # B	
 
-(base64	RFC 3548:)
+[base64	RFC 3548:]
 Base16, Base32, Base64 Data Encodings; Base85 and Ascii85
 
 -bdb
