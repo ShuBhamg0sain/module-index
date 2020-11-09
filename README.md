@@ -8,17 +8,18 @@ __future__	Future statement definitions
 __main__	The environment where the top-level script is run.
 _thread	Low-level threading API.
  	
-a	
-abc	Abstract base classes according to :pep:`3119`.
-aifc	Read and write audio files in AIFF or AIFC format.
-argparse	Command-line option and argument parsing library.
-array	Space efficient arrays of uniformly typed numeric values.
-ast	Abstract Syntax Tree classes and manipulation.
-asynchat	Support for asynchronous command/response protocols.
-asyncio	Asynchronous I/O.
-asyncore	A base class for developing asynchronous socket handling services.
-atexit	Register and execute cleanup functions.
-audioop	Manipulate raw audio data.
+# a
+	
+- [abc]	Abstract base classes according to :pep:`3119`.
+- [aifc] Read and write audio files in AIFF or AIFC format.
+- [argparse]	Command-line option and argument parsing library.
+- [array]	Space efficient arrays of uniformly typed numeric values.
+- [ast]	Abstract Syntax Tree classes and manipulation.
+- [asynchat]	Support for asynchronous command/response protocols.
+- [asyncio]	Asynchronous I/O.
+- [asyncore]	A base class for developing asynchronous socket handling services.
+- [atexit]	Register and execute cleanup functions.
+- [audioop]	Manipulate raw audio data.
  	
 # B	
 
