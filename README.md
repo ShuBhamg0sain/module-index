@@ -22,11 +22,17 @@ audioop	Manipulate raw audio data.
  	
 b	
 base64	RFC 3548: Base16, Base32, Base64 Data Encodings; Base85 and Ascii85
+
 bdb	Debugger framework.
+
 binascii	Tools for converting between binary and various ASCII-encoded binary representations.
+
 binhex	Encode and decode files in binhex4 format.
+
 bisect	Array bisection algorithms for binary searching.
+
 builtins	The module that provides the built-in namespace.
+
 bz2	Interfaces for bzip2 compression and decompression.
  	
 c	
