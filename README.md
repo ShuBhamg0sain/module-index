@@ -20,20 +20,28 @@ asyncore	A base class for developing asynchronous socket handling services.
 atexit	Register and execute cleanup functions.
 audioop	Manipulate raw audio data.
  	
-b	
-base64	RFC 3548: Base16, Base32, Base64 Data Encodings; Base85 and Ascii85
+# B	
 
-bdb	Debugger framework.
+-base64	RFC 3548: 
+Base16, Base32, Base64 Data Encodings; Base85 and Ascii85
 
-binascii	Tools for converting between binary and various ASCII-encoded binary representations.
+-bdb
+Debugger framework.
 
-binhex	Encode and decode files in binhex4 format.
+-binascii
+Tools for converting between binary and various ASCII-encoded binary representations.
 
-bisect	Array bisection algorithms for binary searching.
+-binhex	
+Encode and decode files in binhex4 format.
 
-builtins	The module that provides the built-in namespace.
+-bisect	
+Array bisection algorithms for binary searching.
 
-bz2	Interfaces for bzip2 compression and decompression.
+-builtins	
+The module that provides the built-in namespace.
+
+-bz2	
+Interfaces for bzip2 compression and decompression.
  	
 c	
 calendar	Functions for working with calendars, including some emulation of the Unix cal program.
